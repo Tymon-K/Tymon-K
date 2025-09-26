@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arcodyq
+- 👋 Hi, I’m @Tymon-K
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning. C#
+- 🌱 I’m currently learning. C++
 - ⌨️ I use: Python,C# and a litte bit Java
 
 <!---
